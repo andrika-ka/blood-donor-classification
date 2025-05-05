@@ -22,6 +22,10 @@ This pipeline simulates a real hospital scenario in three phases:
 - Created a modular ML pipeline with explainable outputs
 - Identified key medical features that influence donor classification
 - Exported model with ONNX for production compatibility
+- Accuracy: 93%
+- F1-Score: 0.91
+- Confusion Matrix included in notebook
+
 
 ## 📁 Files
 
